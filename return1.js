@@ -1,12 +1,12 @@
 // const readLine = require(`readline-sync`);
-// //1
+//
 // function nameSwapper (){
 // let first = readLine.question("first name");
 //  let last = readLine.question("last name");
 //  return (`${last}, ${first}`);
 //   }
 //
-//  //2
+//
 //  function generateNum(){
 //   let num1 = readLine.question("Enter a digit: ");
 //   let num2 = readLine.question("Enter another digit: ");
@@ -15,7 +15,7 @@
 // console.log(generateNum());
 // console.log(generateNum());
 //
-// //3
+//
 //  function avgTemp(){
 //    let temp1 = readLine.question("Day 1: ");
 //    let temp2 = readLine.question("Day 2: ");
